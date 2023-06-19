@@ -1,6 +1,6 @@
 <h1 align="center"> prj_PYTHON_pesquisagooglemaps </h1>
 
-![Badge linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON3-yellow) ![Badge status](https://img.shields.io/badge/STATUS-DESENVOLVIDO-green)
+![Badge linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON3-yellow) ![Badge status](https://img.shields.io/badge/STATUS-DESENVOLVIDO-green) ![Badge status](https://img.shields.io/badge/RELEASE-06/2023-blue)
 ## Descrição do projeto:
 O objetivo do exercicio é pesquisar o termo 'Contabilidade' no Google Maps para obter os resultados correspondentes.
 
