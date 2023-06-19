@@ -17,7 +17,6 @@ def removearquivo(caminhoarquivo):
     else:
         print(f"Arquivo '{caminhoarquivo}' não existe.")
 
-
 # Inicia algumas variaveis que serão utilizadas no código
 # Certifique-se de ter o driver do Chrome instalado e configurado no PATH do sistema.
 

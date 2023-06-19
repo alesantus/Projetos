@@ -1,6 +1,6 @@
 <h1 align="center"> prj_PYTHON_pesquisagooglemaps </h1>
 
-![Badge linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON3-yellow) ![Badge status](https://img.shields.io/badge/STATUS-DESENVOLVIDO-green)
+![Badge linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON3-yellow) ![Badge status](https://img.shields.io/badge/STATUS-DESENVOLVIDO-green) ![Badge status](https://img.shields.io/badge/RELEASE-06/2023-blue)
 ## Descrição do projeto:
 O objetivo do exercicio é pesquisar o termo 'Contabilidade' no Google Maps para obter os resultados correspondentes.
 
@@ -56,3 +56,8 @@ Possibilita controlar a execução do script, como interromper a execução, exi
 Útil para lidar com situações específicas do sistema operacional e gerenciamento de fluxo de execução do programa.
 
 ## Video do processo:
+
+
+https://github.com/alesantus/Projetos/assets/86247000/4cf8021f-98dd-4852-b4c5-ed389a9080ef
+
+
