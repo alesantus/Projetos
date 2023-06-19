@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projetos
 ## Descrição
   Pasta dedicada aos exercícios de aprendizagem em ferramentas e linguagens de programação, com foco em automação.
