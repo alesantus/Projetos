@@ -56,3 +56,8 @@ Possibilita controlar a execução do script, como interromper a execução, exi
 Útil para lidar com situações específicas do sistema operacional e gerenciamento de fluxo de execução do programa.
 
 ## Video do processo:
+
+
+https://github.com/alesantus/Projetos/assets/86247000/4cf8021f-98dd-4852-b4c5-ed389a9080ef
+
+
