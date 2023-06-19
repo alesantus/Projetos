@@ -42,63 +42,7 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "5b566103-0132-4583-9f42-a0dbb2e99eb5",
-        "dataVariationFilePath": ".variations\\Tests_Tests.json",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\GeneralTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "31bdf888-c013-4b72-91c1-21fc970331e9",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\GetTransactionDataTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "c814f03e-4d8b-49d0-b9f6-a07bd24e78e0",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "9b3642ba-dcb3-455a-ac98-bf2fd29d9c43",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\InitAllSettingsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "f31f547e-dccd-43a8-9553-746e1f9ef366",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\MainTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "704b336b-31bc-4803-a97e-1b8af3eac4e3",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\ProcessTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "fd4dbc1f-2191-4351-b51f-0aab7ed9a4a3",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "79549fc4-297b-4159-8438-bc02d15c31d0",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\TesteAttachBrowser.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "f306db28-102e-44da-ad70-b6c67f2f5315",
-        "testCaseType": "TestCase",
-        "fileName": "Tests\\TesteDeleteFila.xaml"
-      }
-    ],
+    "fileInfoCollection": [],
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
